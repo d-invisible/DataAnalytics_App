@@ -10,7 +10,7 @@ Upload you CSV/XLSX file and explore with easy interactive analytics
 
 ## Try Live 
    Live <a href="https://dinidataanalytics.streamlit.app/">LINK</a>
-
+<br><br>
 ## Screenshots
 
 <img width="658" alt="image" src="https://github.com/user-attachments/assets/c957eef6-04ab-43a1-8a12-6facde1e4f46">
